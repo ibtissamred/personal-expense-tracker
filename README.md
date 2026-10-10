@@ -36,10 +36,10 @@ This project was developed to practice Python programming, database operations, 
 ## Screenshots
 
 ### Main Menu
-![Personal Expense Tracker](./screenshot%20(25).png)
+![Main Menu](<./Screenshot (25).png>)
 
 ### View Expenses
-![View Expenses](./screenshot%20(26).png)
+![View Expenses](<./Screenshot (26).png>)
 
 ### Total Spending
-![Total Spending](./screenshot%20(27).png)
+![Total Spending](<./Screenshot (27).png>)
